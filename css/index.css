@@ -1,4 +1,12 @@
 header {
   background-color: #2f2e2e;
+  border: #2f2e2e 1000px;
   padding: 20px 40px 20px 40px;
+  color: white;
+  font-family: Avenir;
+}
+
+@font-face {
+  font-family: Avenir;
+  src: url(font/Avenir.otf);
 }
