@@ -12,5 +12,5 @@ p.welcome {
 
 @font-face {
   font-family: Avenir;
-  src: url(font/Avenir.otf);
+  src: url("css/font/Avenir.otf");
 }
