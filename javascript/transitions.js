@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $('p.logotxt1').fadeIn();
-  $('p.logotxt2').fadeIn();
-  $('img.logo').fadeIn();
+  $('p.logotxt1').fadeIn(100);
+  $('p.logotxt2').fadeIn(100);
+  $('img.logo').fadeIn(100);
 });
