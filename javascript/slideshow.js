@@ -1,7 +1,7 @@
 $("#slideshow > div:gt(0)").hide();
 
 setInterval(function() { 
-  $('#slideshow > div:first')
+  $('#slideshow > div:nth-child(8)')
     .fadeOut(1000)
     .next()
     .fadeIn(1000)
