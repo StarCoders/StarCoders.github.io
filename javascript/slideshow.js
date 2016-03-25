@@ -1,9 +1,4 @@
 $(document).ready(function() {
-  $('img.p2').hide();
-  $('img.p3').hide();
-  $('img.p4').hide();
-  $('img.p5').hide();
-  $('img.p6').hide();
   
   $('img.p1').fadeOut(1000);
   $('img.p2').fadeIn(1000);
