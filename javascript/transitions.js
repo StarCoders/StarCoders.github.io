@@ -1,3 +1,3 @@
 $(document).ready(function() {
-  $('nav').fadeIn();
+  $('body').fadeIn();
 });
