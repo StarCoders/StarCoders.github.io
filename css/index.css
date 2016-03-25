@@ -13,18 +13,18 @@ p.logotxt1 {
   font-family: Avenir;
   font-size: 14px;
   color: #2f2e2e;
-  padding: 10px 0 0 20px;
+  padding: 0 0 10px 20px;
 }
 
 p.logotxt2 {
   font-family: Avenir;
   font-size: 14px;
   color: #2f2e2e;
-  padding: 8px 0 0 20px;
+  padding: 0 0 8px 20px;
 }
 
 img.logo {
-  padding: 0 0 0 15px;
+  padding: 3px 0 0 15px;
 }
 
 body {
