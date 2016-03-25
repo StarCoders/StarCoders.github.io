@@ -9,6 +9,10 @@ p.welcome {
   font-size: 30px;
 }
 
+body {
+  margin: 0px;
+}
+
 @font-face {
   font-family: Avenir;
   src: url("Avenir.otf");
