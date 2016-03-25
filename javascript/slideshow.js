@@ -28,7 +28,7 @@ $(document).ready(function() {
   
   $('img.p5').fadeOut(1000);
   $('img.p6').show();
-  $('img.p6').fadeIn(1000);
+  $('img.p6').fadeIn(1000)
   
   .appendTo('img.p1');
 });
