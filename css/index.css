@@ -29,6 +29,7 @@ img.logo {
 
 body {
   margin: 0px;
+  display: none;
 }
 
 @font-face {
