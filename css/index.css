@@ -39,6 +39,13 @@ img.logo {
     box-shadow: 0 0 20px rgba(0,0,0,0.4); 
 }
 
+#slideshow > div { 
+  top: 10px; 
+  left: 10px; 
+  right: 10px; 
+  bottom: 10px; 
+}
+
 body {
   margin: 0px;
 }
