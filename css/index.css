@@ -30,28 +30,21 @@ img.logo {
   display: none;
 }
 
-img.p1 {
-  display: none;
+#slideshow { 
+    margin: 50px auto; 
+    position: relative; 
+    width: 240px; 
+    height: 240px; 
+    padding: 10px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
 }
 
-img.p2 {
-  display: none;
-}
-
-img.p3 {
-  display: none;
-}
-
-img.p4 {
-  display: none;
-}
-
-img.p5 {
-  display: none;
-}
-
-img.p6 {
-  display: none;
+#slideshow > div { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
 }
 
 body {
