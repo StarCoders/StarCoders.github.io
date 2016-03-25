@@ -1,5 +1,8 @@
 $(document).ready(function() {
   
+  $('img.p1').hide();
+  $('img.p1').hide();
+  
   $('img.p1').fadeIn(1000)
   
   $('img.p1').fadeOut(1000).next()
