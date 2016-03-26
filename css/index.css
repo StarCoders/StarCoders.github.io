@@ -19,7 +19,7 @@ p.nav {
   font-size: 20px;
   display: none;
   float: right;
-  padding: 500px;
+  padding: 0 500px 0 0;
 }
 
 body {
