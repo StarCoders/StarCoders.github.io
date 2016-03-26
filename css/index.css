@@ -90,8 +90,6 @@ body {
   src: url("Avenir.otf");
 }
 
-
-
 .css-slideshow{
   position: relative;
   width: 1903px;
@@ -175,4 +173,19 @@ figure:nth-child(8) {
 figcaption {
   font-family: Avenir;
   font-size: 14px;
+}
+
+div.wel2 {
+  padding: 50px 0 50px 0;
+}
+
+h1.wel {
+  font-family: Avenir;
+  color: #7EE6D3;
+}
+
+p.weltxt {
+  font-family: Avenir;
+  font-size: 15px;
+  color: #2f2e2e;
 }
