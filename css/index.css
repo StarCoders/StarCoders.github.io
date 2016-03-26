@@ -15,52 +15,52 @@ img.logo {
 }
 
 div.nav {
-  padding: 50px 500px 0 0;
+  padding: 50px 400px 0 0;
   float: right;
 }
 
 p.home {
   font-family: Avenir;
-  font-size: 20px;
+  font-size: 15px;
   display: none;
   float: right;
-  padding: 10px 20px 10px 20px;
+  padding: 30px 40px 30px 40px;
   background-color: #f16876;
 }
 
 p.news {
   font-family: Avenir;
-  font-size: 20px;
+  font-size: 15px;
   display: none;
   float: right;
-  padding: 10px 20px 10px 20px;
+  padding: 30px 40px 30px 40px;
   background-color: #eaefff;
 }
 
 p.forums {
   font-family: Avenir;
-  font-size: 20px;
+  font-size: 15px;
   display: none;
   float: right;
-  padding: 10px 20px 10px 20px;
+  padding: 30px 40px 30px 40px;
   background-color: #eaefff;
 }
 
 p.vip {
   font-family: Avenir;
-  font-size: 20px;
+  font-size: 15px;
   display: none;
   float: right;
-  padding: 10px 20px 10px 20px;
+  padding: 30px 40px 30px 40px;
   background-color: #eaefff;
 }
 
 p.github {
   font-family: Avenir;
-  font-size: 20px;
+  font-size: 15px;
   display: none;
   float: right;
-  padding: 10px 20px 10px 20px;
+  padding: 30px 40px 30px 40px;
   background-color: #eaefff;
 }
 
