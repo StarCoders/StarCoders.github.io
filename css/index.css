@@ -171,3 +171,8 @@ figure:nth-child(8) {
     opacity: 1;
   }
 }
+
+figcaption {
+  font-family: Avenir;
+  font-size: 14px;
+}
