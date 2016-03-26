@@ -73,6 +73,14 @@ a {
   text-decoration: none;
 }
 
+footer {
+  background-color: #2f2e2e;
+  padding: 30px 0 500px 45px;
+  color: white;
+  font-family: Avenir;
+  font-size: 14px;
+}
+
 body {
   margin: 0 0 0 0;
 }
