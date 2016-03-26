@@ -1,6 +1,6 @@
 header {
   background-color: #2f2e2e;
-  padding: 1px 0 1px 0;
+  padding: 0 0 0 0;
 }
 
 p.welcome {
@@ -14,6 +14,7 @@ p.logotxt1 {
   font-size: 18px;
   color: #2f2e2e;
   padding: 0 0 150px 250px;
+  display: none;
 }
 
 p.logotxt2 {
@@ -21,10 +22,12 @@ p.logotxt2 {
   font-size: 18px;
   color: #2f2e2e;
   padding: 0 0 140px 270px;
+  display: none;
 }
 
 img.logo {
   padding: 30px 0 0 150px;
+  display: none;
 }
 
 body {
