@@ -18,7 +18,8 @@ p.nav {
   font-family: Avenir;
   font-size: 20px;
   display: none;
-  float: 1500px;
+  float: right;
+  padding: 500px;
 }
 
 body {
