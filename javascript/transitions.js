@@ -1,4 +1,8 @@
 $(document).ready(function() {
   $('img.logo').fadeIn();
-  $('p.nav').fadeIn();
+  $('p.home').fadeIn();
+  $('p.news').fadeIn();
+  $('p.forums').fadeIn();
+  $('p.vip').fadeIn();
+  $('p.github').fadeIn();
 });
