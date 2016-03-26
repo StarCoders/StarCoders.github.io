@@ -15,7 +15,7 @@ img.logo {
 }
 
 div.nav {
-  padding: 50px 400px 0 0;
+  padding: 50px 300px 0 0;
   float: right;
 }
 
@@ -24,7 +24,7 @@ p.home {
   font-size: 15px;
   display: none;
   float: right;
-  padding: 30px 40px 30px 40px;
+  padding: 20px 40px 20px 40px;
   background-color: #f16876;
 }
 
@@ -33,7 +33,7 @@ p.news {
   font-size: 15px;
   display: none;
   float: right;
-  padding: 30px 40px 30px 40px;
+  padding: 20px 40px 20px 40px;
   background-color: #eaefff;
 }
 
@@ -42,7 +42,7 @@ p.forums {
   font-size: 15px;
   display: none;
   float: right;
-  padding: 30px 40px 30px 40px;
+  padding: 20px 40px 20px 40px;
   background-color: #eaefff;
 }
 
@@ -51,7 +51,7 @@ p.vip {
   font-size: 15px;
   display: none;
   float: right;
-  padding: 30px 40px 30px 40px;
+  padding: 20px 40px 20px 40px;
   background-color: #eaefff;
 }
 
@@ -60,7 +60,7 @@ p.github {
   font-size: 15px;
   display: none;
   float: right;
-  padding: 30px 40px 30px 40px;
+  padding: 20px 40px 20px 40px;
   background-color: #eaefff;
 }
 
