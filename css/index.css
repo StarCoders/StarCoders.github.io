@@ -9,22 +9,6 @@ p.welcome {
   font-size: 30px;
 }
 
-p.logotxt1 {
-  font-family: Avenir;
-  font-size: 18px;
-  color: #2f2e2e;
-  margin: 0 0 200px 275px;
-  display: none;
-}
-
-p.logotxt2 {
-  font-family: Avenir;
-  font-size: 18px;
-  color: #2f2e2e;
-  margin: 0 0 400px 290px;
-  display: none;
-}
-
 img.logo {
   padding: 30px 0 0 150px;
   display: none;
