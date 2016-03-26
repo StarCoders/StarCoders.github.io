@@ -26,6 +26,7 @@ p.home {
   float: right;
   padding: 20px 40px 20px 40px;
   background-color: #f16876;
+  text-decoration: none;
 }
 
 p.news {
@@ -35,6 +36,7 @@ p.news {
   float: right;
   padding: 20px 40px 20px 40px;
   background-color: #eaefff;
+  text-decoration: none;
 }
 
 p.forums {
@@ -44,6 +46,7 @@ p.forums {
   float: right;
   padding: 20px 40px 20px 40px;
   background-color: #eaefff;
+  text-decoration: none;
 }
 
 p.vip {
@@ -53,6 +56,7 @@ p.vip {
   float: right;
   padding: 20px 40px 20px 40px;
   background-color: #eaefff;
+  text-decoration: none;
 }
 
 p.github {
@@ -62,6 +66,7 @@ p.github {
   float: right;
   padding: 20px 40px 20px 40px;
   background-color: #eaefff;
+  text-decoration: none;
 }
 
 body {
