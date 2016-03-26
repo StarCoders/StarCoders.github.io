@@ -94,8 +94,8 @@ body {
 
 .css-slideshow{
   position: relative;
-  max-width: 495px;
-  height: 370px;
+  width: 1903px;
+  height: 1072px;
   margin: 5em auto .5em auto;
 }
 .css-slideshow figure{
