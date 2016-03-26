@@ -25,7 +25,7 @@ p.home {
   display: none;
   float: right;
   padding: 20px 40px 20px 40px;
-  background-color: #eaefff;
+  background-color: #f16876;
   color: black;
 }
 
@@ -71,16 +71,6 @@ p.github {
 
 a {
   text-decoration: none;
-}
-
-a:hover {
-  background-color: #b3bfe7;
-  display: inline-block;
-}
-
-a:active {
-  background-color: #f16876;
-  display: inline-block;
 }
 
 body {
