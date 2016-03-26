@@ -14,6 +14,13 @@ img.logo {
   display: none;
 }
 
+p.nav {
+  font-family: Avenir;
+  font-size: 20px;
+  display: none;
+  float: right;
+}
+
 body {
   margin: 0px;
 }
