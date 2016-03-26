@@ -14,11 +14,16 @@ img.logo {
   display: none;
 }
 
+div.nav {
+  padding: 0 500px 0 0;
+}
+
 p.home {
   font-family: Avenir;
   font-size: 20px;
   display: none;
   float: right;
+  padding: 10px 20px 10px 20px;
 }
 
 p.news {
@@ -26,6 +31,7 @@ p.news {
   font-size: 20px;
   display: none;
   float: right;
+  padding: 10px 20px 10px 20px;
 }
 
 p.forums {
@@ -33,6 +39,7 @@ p.forums {
   font-size: 20px;
   display: none;
   float: right;
+  padding: 10px 20px 10px 20px;
 }
 
 p.vip {
@@ -40,6 +47,7 @@ p.vip {
   font-size: 20px;
   display: none;
   float: right;
+  padding: 10px 20px 10px 20px;
 }
 
 p.github {
@@ -47,6 +55,7 @@ p.github {
   font-size: 20px;
   display: none;
   float: right;
+  padding: 10px 20px 10px 20px;
 }
 
 body {
