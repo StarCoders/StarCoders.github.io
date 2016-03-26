@@ -23,6 +23,7 @@ p.home {
   font-family: Avenir;
   font-size: 20px;
   display: none;
+  float: right;
   padding: 10px 20px 10px 20px;
 }
 
@@ -30,6 +31,7 @@ p.news {
   font-family: Avenir;
   font-size: 20px;
   display: none;
+  float: right;
   padding: 10px 20px 10px 20px;
 }
 
@@ -37,6 +39,7 @@ p.forums {
   font-family: Avenir;
   font-size: 20px;
   display: none;
+  float: right;
   padding: 10px 20px 10px 20px;
 }
 
@@ -44,6 +47,7 @@ p.vip {
   font-family: Avenir;
   font-size: 20px;
   display: none;
+  float: right;
   padding: 10px 20px 10px 20px;
 }
 
@@ -51,6 +55,7 @@ p.github {
   font-family: Avenir;
   font-size: 20px;
   display: none;
+  float: right;
   padding: 10px 20px 10px 20px;
 }
 
