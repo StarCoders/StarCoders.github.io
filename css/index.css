@@ -25,7 +25,7 @@ p.home {
   display: none;
   float: right;
   padding: 20px 40px 20px 40px;
-  background-color: #f16876;
+  background-color: #eaefff;
   color: black;
 }
 
@@ -72,6 +72,13 @@ p.github {
 a {
   text-decoration: none;
 }
+
+p.home p.news p.forums p.vip p.github a:hover {
+  background-color: #b3bfe7;
+}
+
+p.home p.news p.forums p.vip p.github a:active {
+  background-color: #f16876;
 
 body {
   margin: 0px;
