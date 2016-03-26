@@ -75,10 +75,12 @@ a {
 
 a:hover {
   background-color: #b3bfe7;
+  display: inline-block;
 }
 
 a:active {
   background-color: #f16876;
+  display: inline-block;
 }
 
 body {
