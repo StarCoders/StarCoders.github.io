@@ -89,3 +89,7 @@ body {
   font-family: Avenir;
   src: url("Avenir.otf");
 }
+
+iframe {
+  padding: 10px 0px 0px 20px;
+}
