@@ -155,26 +155,9 @@ p.ptut:hover, a:hover {
 }
 
 /* Plugins */
-div.sidebar {
-  padding: 20px;
-  border-style: solid;
-  border-color: #900C3F;
-}
-
-p.mp {
-  font-family: Avenir;
-  font-size: 25px;
-}
-
-p.a1 {
-  font-family: Avenir;
-  font-size: 15px;
-  color: black;
-  padding: 0 0 0 5px;
-}
 
 div.plugins {
-  float: right;
+  float: left;
   padding: 20px;
   border-style: solid;
   border-color: #FF5733;
