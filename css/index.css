@@ -122,8 +122,5 @@ p.hw {
   color: #212121;
   border-style: solid;
   border-color: #33FFA5;
-  background-color: -webkit-gradient(#33FFA5, #33FFE9);
-  background-color: -webkit-linear-gradient(#33FFA5, #33FFE9);
-  background-color: -moz-linear-gradient(#33FFA5, #33FFE9);
-  background-color: linear-gradient(#33FFA5, #33FFE9);
+  background: linear-gradient(#33FFA5, #33FFE9);
 }
