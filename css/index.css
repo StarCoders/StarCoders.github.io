@@ -153,3 +153,49 @@ p.server:hover, a:hover {
 p.ptut:hover, a:hover {
   background-color: #C70039;
 }
+
+/* Plugins */
+div.sidebar {
+  float: left;
+  padding: 20px;
+  border-style: solid;
+  border-color: #900C3F;
+}
+
+p.mp {
+  background-color: #900C3F;
+  font-family: Avenir;
+  font-size: 15px;
+  color: white;
+}
+
+p.a1 {
+  font-family: Avenir;
+  font-size: 15px;
+  color: black;
+  padding: 0 0 0 5px;
+}
+
+div.plugins {
+  float: right;
+  padding: 20px;
+  border-style: solid;
+  border-color: #FF5733;
+}
+
+p.p1 {
+  font-family: Avenir;
+  font-size: 22px;
+}
+
+p.d1 {
+  font-family: Avenir;
+  font-size: 14px;
+}
+
+p.dp1 {
+  font-family: Avenir;
+  font-size: 14px;
+  background-color: #900C3F;
+  padding: 20px;
+}
