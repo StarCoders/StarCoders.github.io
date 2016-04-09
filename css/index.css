@@ -160,16 +160,20 @@ div.plugins {
   padding: 20px;
   border-style: solid;
   border-color: #FF5733;
+  border-radius: 20px;
+  background: linear-gradient(#FF3333, #FF5733);
 }
 
 p.p1 {
   font-family: Avenir;
   font-size: 22px;
+  color: white;
 }
 
 p.d1 {
   font-family: Avenir;
   font-size: 14px;
+  color: white;
 }
 
 p.dp1 {
@@ -177,4 +181,5 @@ p.dp1 {
   font-size: 14px;
   background-color: #900C3F;
   padding: 20px;
+  color: white;
 }
