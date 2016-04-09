@@ -157,7 +157,6 @@ p.ptut:hover, a:hover {
 /* Plugins */
 
 div.plugins {
-  float: left;
   padding: 20px;
   border-style: solid;
   border-color: #FF5733;
