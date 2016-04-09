@@ -187,3 +187,7 @@ p.dp1 {
   color: white;
   float: right;
 }
+
+p.dp1:hover, a:hover {
+  background-color: #C70039;
+}
