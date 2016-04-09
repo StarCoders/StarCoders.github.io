@@ -176,14 +176,14 @@ p.d1 {
 }
 
 div.button1 {
-  padding: 0 20px 56px 0;
+  padding: 0 20px 100px 0;
 }
 
 p.dp1 {
   font-family: Avenir;
   font-size: 14px;
   background-color: #900C3F;
-  padding: 20px;
+  padding: 20px 40px 20px 40px;
   color: white;
   float: right;
 }
