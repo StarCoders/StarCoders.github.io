@@ -157,10 +157,9 @@ p.ptut:hover, a:hover {
 /* Plugins */
 
 div.plugins {
-  padding: 200px;
+  padding: 20px;
   border-style: solid;
   border-color: #FF5733;
-  border-radius: 20px;
   background: linear-gradient(#FF3333, #FF5733);
 }
 
@@ -182,4 +181,5 @@ p.dp1 {
   background-color: #900C3F;
   padding: 20px;
   color: white;
+  float: right;
 }
