@@ -167,12 +167,14 @@ p.p1 {
   font-family: Avenir;
   font-size: 22px;
   color: white;
+  padding: 30px 0 0 10px;
 }
 
 p.d1 {
   font-family: Avenir;
   font-size: 14px;
   color: white;
+  padding: 30px 0 0 10px;
 }
 
 div.button1 {
