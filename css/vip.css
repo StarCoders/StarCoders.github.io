@@ -114,3 +114,31 @@ body {
 iframe {
   padding: 10px 0px 0px 20px;
 }
+
+p.home:hover, a:hover {
+  background-color: #C70039;
+}
+
+p.news:hover, a:hover {
+  background-color: #C70039;
+}
+
+p.forums:hover, a:hover {
+  background-color: #C70039;
+}
+
+p.vip:hover, a:hover {
+  background-color: #C70039;
+}
+
+p.github:hover, a:hover {
+  background-color: #C70039;
+}
+
+p.server:hover, a:hover {
+  background-color: #C70039;
+}
+
+p.ptut:hover, a:hover {
+  background-color: #C70039;
+}
