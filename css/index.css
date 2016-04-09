@@ -111,4 +111,13 @@ body {
   src: url("Avenir.otf");
 }
 
+div.hc {
+  padding: 30px;
+}
 
+p.hw {
+  font-family: Avenir;
+  font-size: 16px;
+  padding: 30px;
+  color: #212121;
+}
