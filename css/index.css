@@ -117,10 +117,11 @@ div.hc {
 
 p.hw {
   font-family: Avenir;
-  font-size: 16px;
+  font-size: 18px;
   padding: 30px;
   color: #212121;
   border-style: solid;
   border-color: #33FFA5;
+  border-radius: 20px;
   background: linear-gradient(#33FFA5, #33FFE9);
 }
