@@ -5,4 +5,6 @@ $(document).ready(function() {
   $('p.forums').fadeIn();
   $('p.vip').fadeIn();
   $('p.github').fadeIn();
+  $('p.ptut').fadeIn();
+  $('p.server').fadeIn();
 });
