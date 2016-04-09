@@ -156,16 +156,14 @@ p.ptut:hover, a:hover {
 
 /* Plugins */
 div.sidebar {
-  float: left;
   padding: 20px;
   border-style: solid;
   border-color: #900C3F;
 }
 
 p.mp {
-  background-color: #900C3F;
   font-family: Avenir;
-  font-size: 15px;
+  font-size: 25px;
   color: white;
 }
 
