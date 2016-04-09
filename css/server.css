@@ -1,0 +1,212 @@
+header {
+  background-color: #2f2e2e;
+  padding: 1px 0 1px 0;
+}
+
+p.welcome {
+  color: white;
+  font-family: Avenir;
+  font-size: 30px;
+}
+
+img.logo {
+  padding: 30px 0 0 150px;
+  display: none;
+}
+
+div.nav {
+  padding: 50px 200px 0 0;
+  float: right;
+}
+
+p.home {
+  font-family: Avenir;
+  font-size: 15px;
+  display: none;
+  float: right;
+  padding: 20px 40px 20px 40px;
+  background-color: #eaefff;
+  color: black;
+}
+
+p.news {
+  font-family: Avenir;
+  font-size: 15px;
+  display: none;
+  float: right;
+  padding: 20px 40px 20px 40px;
+  background-color: #eaefff;
+  color: black;
+}
+
+p.forums {
+  font-family: Avenir;
+  font-size: 15px;
+  display: none;
+  float: right;
+  padding: 20px 40px 20px 40px;
+  background-color: #eaefff;
+  color: black;
+}
+
+p.vip {
+  font-family: Avenir;
+  font-size: 15px;
+  display: none;
+  float: right;
+  padding: 20px 40px 20px 40px;
+  background-color: #eaefff;
+  color: black;
+}
+
+p.github {
+  font-family: Avenir;
+  font-size: 15px;
+  display: none;
+  float: right;
+  padding: 20px 40px 20px 40px;
+  background-color: #eaefff;
+  color: black;
+}
+
+p.ptut {
+  font-family: Avenir;
+  font-size: 15px;
+  display: none;
+  float: right;
+  padding: 20px 40px 20px 40px;
+  background-color: #eaefff;
+  color: black;
+}
+
+p.server {
+  font-family: Avenir;
+  font-size: 15px;
+  display: none;
+  float: right;
+  padding: 20px 40px 20px 40px;
+  background-color: #f16876;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+footer {
+  background-color: #2f2e2e;
+  padding: 30px 0 500px 45px;
+  color: white;
+  font-family: Avenir;
+  font-size: 14px;
+}
+
+body {
+  margin: 0 0 0 0;
+}
+
+@font-face {
+  font-family: Avenir;
+  src: url("Avenir.otf");
+}
+
+.css-slideshow{
+  position: relative;
+  width: 1903px;
+  height: 1072px;
+  margin: 5em auto .5em auto;
+}
+.css-slideshow figure{
+  margin: 0;
+  max-width: 495px;
+  height: 370px;
+  background: #000;
+  position: absolute;
+}
+.css-slideshow img{
+  box-shadow: 0 0 2px #666;
+}
+.css-slideshow figcaption{
+  position: absolute;
+  top: 0;
+  color: #fff;
+  background: rgba(0,0,0, .3);
+  font-size: .8em;
+  padding: 8px 12px;
+  opacity: 0;
+  transition: opacity .5s;
+}
+.css-slideshow:hover figure figcaption{
+  transition: opacity .5s;
+  opacity: 1;
+}
+
+.css-slideshow-attr a{
+  color: #666;
+}
+.css-slideshow figure{
+  opacity:0;
+}
+figure:nth-child(1) {
+  animation: xfade 48s 42s infinite;
+}
+figure:nth-child(2) {
+  animation: xfade 48s 36s infinite;
+}
+figure:nth-child(3) {
+  animation: xfade 48s 30s infinite;
+}
+figure:nth-child(4) {
+  animation: xfade 48s 24s infinite;
+}
+figure:nth-child(5) {
+  animation: xfade 48s 18s infinite;
+}
+figure:nth-child(6) {
+  animation: xfade 48s 12s infinite;
+}
+figure:nth-child(7) {
+  animation: xfade 48s 6s infinite;
+}
+figure:nth-child(8) {
+  animation: xfade 48s 0s infinite;
+}
+
+@keyframes xfade{
+  0%{
+    opacity: 1;
+  }
+  10.5% {
+    opacity: 1;
+  }
+  12.5%{
+    opacity: 0;
+  }
+  98% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+figcaption {
+  font-family: Avenir;
+  font-size: 14px;
+}
+
+div.wel2 {
+  padding: 50px 0 50px 0;
+}
+
+h1.wel {
+  font-family: Avenir;
+  color: #7EE6D3;
+}
+
+p.weltxt {
+  font-family: Avenir;
+  font-size: 15px;
+  color: #2f2e2e;
+}
