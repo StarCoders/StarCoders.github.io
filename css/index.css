@@ -158,8 +158,6 @@ p.ptut:hover, a:hover {
 
 div.plugins {
   padding: 20px;
-  border-style: solid;
-  border-color: #FF5733;
   background: linear-gradient(#FF3333, #FF5733);
 }
 
