@@ -9,3 +9,9 @@
       zoom: 50%;
    }
 }
+
+@media screen and (max-width: 667px) {
+  body {
+     zoom: 33%;
+  }
+}
