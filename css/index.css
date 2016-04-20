@@ -156,7 +156,7 @@ p.ptut:hover, a:hover {
 
 /* Plugins */
 
-div.plugins {
+div.plugin1 {
   padding: 20px;
   background: linear-gradient(#FF3333, #FF5733);
 }
@@ -190,4 +190,37 @@ p.dp1 {
 
 p.dp1:hover, a:hover {
   background-color: #C70039;
+  transition: 0.2s;
+}
+
+/* Plugin 2 */
+
+div.plugin2 {
+  padding: 20px;
+  background: linear-gradient(#0061FF, #00E0FF);
+}
+
+p.d2 {
+  font-family: Avenir;
+  font-size: 14px;
+  color: white;
+  padding: 30px 0 0 10px;
+}
+
+div.button2 {
+  padding: 0 20px 100px 0;
+}
+
+p.dp2 {
+  font-family: Avenir;
+  font-size: 14px;
+  background-color: #900C3F;
+  padding: 20px 40px 20px 40px;
+  color: white;
+  float: right;
+}
+
+p.dp2:hover, a:hover {
+  background-color: #C70039;
+  transition: 0.2s;
 }
