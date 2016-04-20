@@ -238,3 +238,81 @@ p.dp2:hover, a:hover {
   background-color: #C70039;
   transition: 0.2s;
 }
+
+/* Plugin 3 */
+
+div.plugin3 {
+  padding: 20px;
+  background: linear-gradient(#00FF9E, #00FF46);
+}
+
+p.p3 {
+  font-family: Avenir;
+  font-size: 22px;
+  color: white;
+  padding: 30px 0 0 10px;
+}
+
+p.d3 {
+  font-family: Avenir;
+  font-size: 14px;
+  color: white;
+  padding: 30px 0 0 10px;
+}
+
+div.button3 {
+  padding: 0 20px 100px 0;
+}
+
+p.dp3 {
+  font-family: Avenir;
+  font-size: 14px;
+  background-color: #900C3F;
+  padding: 20px 40px 20px 40px;
+  color: white;
+  float: right;
+}
+
+p.dp3:hover, a:hover {
+  background-color: #C70039;
+  transition: 0.2s;
+}
+
+/* Plugin 4 */
+
+div.plugin4 {
+  padding: 20px;
+  background: linear-gradient(#FF0070, #FF00F7);
+}
+
+p.p4 {
+  font-family: Avenir;
+  font-size: 22px;
+  color: white;
+  padding: 30px 0 0 10px;
+}
+
+p.d4 {
+  font-family: Avenir;
+  font-size: 14px;
+  color: white;
+  padding: 30px 0 0 10px;
+}
+
+div.button4 {
+  padding: 0 20px 100px 0;
+}
+
+p.dp4 {
+  font-family: Avenir;
+  font-size: 14px;
+  background-color: #900C3F;
+  padding: 20px 40px 20px 40px;
+  color: white;
+  float: right;
+}
+
+p.dp4:hover, a:hover {
+  background-color: #C70039;
+  transition: 0.2s;
+}
