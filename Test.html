@@ -1,17 +1,34 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <script src = "jspdf.min.js"></script>
+    </head>
 <body>
 
-<p>Click the button to print the current page.</p>
-
-<button onclick="myFunction()">Print this page</button>
+<p>Whats Your Name?</p>
+<input id="name">
+<button type="button" onclick="myFunction()">Submit</button>
 
 <script>
-function myFunction() {
-    w = window.open('TextFile.txt');
-    w.print();
-}
+    function myFunction() {
+        var name;
+        name = document.getElementById("name").value;
+        var pdf = new jsPDF();
+        pdf.text('Name: ' + name);
+        pdf.save('Test.pdf');
+    }
+    
+    function printInfo() {
+        w = window.open('Test.pdf');
+        w.print();
+    }
 </script>
+
+<p> Download Info:</p>
+<a href = "javascript:myFunction()">Download</a>
+<br>
+<p>Print Info:</p>
+<button type="button" onclick="printInfo()">Print</button>
 
 </body>
 </html>
