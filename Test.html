@@ -14,7 +14,7 @@
         var name;
         name = document.getElementById("name").value;
         var pdf = new jsPDF();
-        pdf.text('Name: ' + name);
+        pdf.text(20,20,'Name: ' + name);
         pdf.save('Test.pdf');
     }
     
